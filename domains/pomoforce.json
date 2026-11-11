@@ -1,1 +1,10 @@
+{
+  "owner": {
+    "github": "tlight21"
+  },
+  "description": "A focus timer",
+  "records": {
+    "CNAME": "pomo-force.vercel.app"
+  }
+}
 
